@@ -35,7 +35,7 @@ function viewCart() {
   else if (cart.length === 2){console.log(`${intro} ${dositems}.`)}
   else if (cart.length > 2){return(`${intro} ${beginning}, and ${end}.`)}
   }
-  
+
 
 function total() {
   var totalprice = 0;
