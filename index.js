@@ -78,4 +78,3 @@ function placeOrder(cardNumber) {
     cart = [];
   }
 }
-
